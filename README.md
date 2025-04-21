@@ -1,2 +1,2 @@
 # DL
-Para la asignatura de Deep Learning
+Repositorio para la asignatura de Deep Learning
